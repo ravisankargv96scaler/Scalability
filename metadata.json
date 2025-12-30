@@ -1,5 +1,5 @@
 {
-  "name": "ScaleMaster: System Design Interactive",
+  "name": "35-ScaleMaster: System Design Interactive",
   "description": "An interactive educational visualization of system scalability concepts including vertical scaling, horizontal scaling, and database sharding.",
   "requestFramePermissions": []
 }
